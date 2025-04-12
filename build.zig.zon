@@ -1,6 +1,7 @@
 .{
-    .name = "zig-uuid",
+    .name = .zig_uuid,
     .version = "0.0.1",
+    .fingerprint = 0x1915b34584116725,
 
     .paths = .{
         "src",
